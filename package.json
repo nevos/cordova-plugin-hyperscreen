@@ -47,5 +47,9 @@
   ],
   "license": "MIT",
   "name": "cordova-plugin-hyperscreen",
-  "version": "0.0.3"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nevos/cordova-plugin-hyperscreen.git"
+  },
+  "version": "0.0.4"
 }

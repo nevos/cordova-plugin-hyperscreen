@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <plugin id="cordova-plugin-hyperscreen" 
-version="0.0.3" xmlns="http://apache.org/cordova/ns/plugins/1.0" 
+version="0.0.4" xmlns="http://apache.org/cordova/ns/plugins/1.0" 
     xmlns:android="http://schemas.android.com/apk/res/android">
     <name>hyperscreen</name>
     <description>hyperscreen</description> 
     <license>MIT</license>
     <keywords>cordova,hyperscreen</keywords>
+    <repo>https://github.com/nevos/cordova-plugin-hyperscreen.git</repo>
     <engines>
         <engine name="cordova" version=">=3.0.0" />
     </engines>
