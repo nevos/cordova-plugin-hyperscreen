@@ -1,0 +1,51 @@
+{
+  "_from": "cordova-plugin-hyperscreen",
+  "_id": "cordova-plugin-hyperscreen@0.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-JEjZ8ZCMk0uVmxAb+F8L717rcv2/ZSmlGEq1dkzz4rEqLNtwVcIodZ8D2ATHqzy67/Q/1EtIWONggzqsGoLv2w==",
+  "_location": "/cordova-plugin-hyperscreen",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-hyperscreen",
+    "name": "cordova-plugin-hyperscreen",
+    "escapedName": "cordova-plugin-hyperscreen",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-hyperscreen/-/cordova-plugin-hyperscreen-0.0.2.tgz",
+  "_shasum": "82bfe5445c0de469b71df1b312fb2b1cd5cd9e49",
+  "_spec": "cordova-plugin-hyperscreen",
+  "_where": "/home/nevo/projects/testIonic3",
+  "author": {
+    "name": "nevos"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-hyperscreen",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "hyperscreen",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-hyperscreen",
+  "version": "0.0.3"
+}
